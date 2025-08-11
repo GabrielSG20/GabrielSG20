@@ -5,9 +5,9 @@
 
 💬 Sobre Mim
 
-Analista Desenvolvedor de Software, com mais de 3 anos de experiência. Destaco-me pelo desenvolvimento de scripts Python integrados a Banco de Dados e ferramentas ESRI, para criação de soluções GIS inovadoras. 
+Analista Desenvolvedor de Software, com mais de 4 anos de experiência. Destaco-me pelo desenvolvimento de scripts Python integrados a Banco de Dados e ferramentas ESRI, para criação de soluções GIS inovadoras. 
 
-Formado em Tecnologia em Banco de Dados pela Fatec, também tenho formação técnica em Mecatrônica e Eletrônica pelo COTET. Além disso, iniciei uma pós-graduação em Inteligência Artificial e Machine Learning.
+Formado em Tecnologia em Banco de Dados pela Fatec, também tenho formação técnica em Mecatrônica e Eletrônica pelo COTET. Além disso, finalizei uma pós-graduação em Inteligência Artificial e Machine Learning.
 
 Minhas principais competências incluem SQL, ArcGIS, Python e Java.
 
