@@ -1,27 +1,15 @@
 # Gabriel Soares
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/GabrielSG20)](https://github.com/GabrielSG20)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsoares-dev/)](https://www.linkedin.com/in/gabrielsoares-dev)
+# 💫 About Me:
+I am a Junior Software Developer with over 4 years of experience in building data-driven and backend solutions. I specialize in Python, SQL, and Java, with strong expertise in database design, process automation, and geospatial applications. Passionate about continuous learning and problem-solving, I enjoy working on projects that combine technology, data, and innovation.<br><br>🔭 Currently working as a Junior Software Developer, delivering solutions that integrate databases, automation, and geospatial data.<br>🌍 Proficient in Python, SQL, and Java, with hands-on experience in Spring Boot for backend development.<br>🗺️ Skilled in ESRI technologies and geospatial databases to support strategic decision-making.<br>💻 Experienced in designing efficient and scalable web applications.<br>🎯 Strong focus on continuous learning, problem-solving, and effective communication in collaborative environments.<br>📚 Certified ArcGIS API for Python Associate (2024).<br>🤝 Open to contributing to projects involving software development, database optimization, and geospatial solutions.<br><br>🎓 Education<br>Postgraduate in Artificial Intelligence and Machine Learning – UNOPAR (2024 – 2025)<br>Technologist in Database – Fatec São José dos Campos (2020 – 2022)
 
-💬 Sobre Mim
 
-Analista Desenvolvedor de Software, com mais de 4 anos de experiência. Destaco-me pelo desenvolvimento de scripts Python integrados a Banco de Dados e ferramentas ESRI, para criação de soluções GIS inovadoras. 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielsoares-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabrielsoaresg20@gmail.com) 
 
-Formado em Tecnologia em Banco de Dados pela Fatec, também tenho formação técnica em Mecatrônica e Eletrônica pelo COTET. Além disso, finalizei uma pós-graduação em Inteligência Artificial e Machine Learning.
-
-Minhas principais competências incluem SQL, ArcGIS, Python e Java.
-
-<!--
-**GabrielSG20/GabrielSG20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=flat&logo=gitpod&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GabrielSG20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=GabrielSG20&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSG20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
